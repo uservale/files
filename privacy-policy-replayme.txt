@@ -14,4 +14,4 @@ The user can record their own voice. This generates audio files that stay on the
 Contact
 
 If you need more information, please contact us:
-dinsenbytes@gmail.com
+replayme.application@gmail.com
